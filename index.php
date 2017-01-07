@@ -1,5 +1,10 @@
 <?php
 
-echo 'hello world';
+echo 'new text';
+
+$a = 5;
+$b = 4;
+
+echo 'c = '. $a + $b;
 
 ?>
