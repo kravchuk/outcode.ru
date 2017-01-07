@@ -7,4 +7,6 @@ $b = 4;
 
 echo 'c = '. $a + $b;
 
+echo 'this text add from github';
+
 ?>
